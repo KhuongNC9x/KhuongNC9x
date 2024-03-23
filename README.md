@@ -42,7 +42,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=#FCA121" alt="GitLab logo" title="GitLab"
         height="25" /></span>
 &nbsp;
-span><img src="https://img.shields.io/badge/Dashlane-282C34?logo=dashlane&logoColor=FFF" alt="Dashlane logo" title="Dashlane"
+<span><img src="https://img.shields.io/badge/Dashlane-282C34?logo=dashlane&logoColor=FFF" alt="Dashlane logo" title="Dashlane"
         height="25" /></span>
 
 <br>
