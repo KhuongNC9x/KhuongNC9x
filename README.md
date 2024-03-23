@@ -52,13 +52,18 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <!-- Link for creating stats: https://github.com/anuraghazra/github-readme-stats  -->
 <br>
 <div align="center">
-    <a href="#" title="KhuongNC">
-        <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuongnc&langs_count=4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" >
+    <a href="#">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khuongnc9x" />
     </a>
-    <a href="#" title="KhuongNC">
-        <img width="420px" src="https://github-readme-stats.vercel.app/api?username=khuongnc&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true">
+    <a href="#">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuongnc9x&layout=donut&langs_count=8&card_width=320" />
     </a>
-
+    <!-- <a href="#">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khuongnc9x&repo=ASCII_Buddha_F12" />
+    </a>
+    <a href="#">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khuongnc9x&repo=SpecialDaysAndEvents" />
+    </a> -->
 </div>
 
 <br>
