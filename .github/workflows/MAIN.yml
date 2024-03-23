@@ -1,4 +1,4 @@
-name: generate Snake eats my attribution
+name: Generate Snake eats my attribution
 
 on:
   # run automatically every 24 hours
