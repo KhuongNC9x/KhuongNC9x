@@ -99,8 +99,11 @@
                         <div class="container">
                                 <div class="earth"></div>
                                 <div class="greeting">
-                                        Hi bro!<br />
-                                        I'm Kevin from ...
+                                        Hello World!<br />
+                                        My name is Kevin.<br />
+                                        I'm a Software Developer <br />
+                                        living in VietNam <br />
+                                        and working at <a href="https://gettrail.com/">Trail</a>.
                                 </div>
                                 <div class="skills">
                                         <div class="skills_icon">
