@@ -42,6 +42,8 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=#FCA121" alt="GitLab logo" title="GitLab"
         height="25" /></span>
 &nbsp;
+span><img src="https://img.shields.io/badge/Dashlane-282C34?logo=dashlane&logoColor=FFF" alt="Dashlane logo" title="Dashlane"
+        height="25" /></span>
 
 <br>
 
@@ -73,10 +75,10 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
     <a href="#" target="blank">
         <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="KhuongNC-linkedin" />
     </a>
-    <a href="#" target="blank">
+    <a href="https://www.instagram.com/kevin_nguyen9x/" target="blank">
         <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="KhuongNC-instagram" />
     </a>
-    <a href="#" target="top">
+    <a href="khuongNC9x@gmail.com" target="top">
         <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="KhuongNC-email" />
     </a>
 
@@ -87,7 +89,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <!-- Use this link to create snake: https://github.com/Platane/snk -->
 <h2 align="center">🐍 Just a snake eats my contributions</h2>
 <p align="center">
-    <img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
+    <img src="https://github.com/KhuongNC9x/KhuongNC9x/blob/output/github-contribution-grid-snake.svg">
 </p>
 <br>
 
@@ -97,6 +99,6 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
 <!-- Link for creating quote: https://github.com/shravan20/github-readme-quotes -->
 <div align="center" >
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&animation=grow_out_in&layout=default&font=default)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
 </div>
