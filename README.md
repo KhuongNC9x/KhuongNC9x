@@ -1,8 +1,9 @@
 <a href="#" target="_blank">
     <img src="SVG/theEarth.svg" alt="the Earth">
 </a>
-<br>
-<br>
+<h2 class="heading-element" dir="auto">I'm a Software Developer living in Ha Noi, VietNam and working at 
+    <a href="https://gettrail.com/" rel="nofollow">Trail</a>.
+</h2>
 <h3>🛠 Technologies and Tools 🛠</h3>
 
 <!-- Link for source image: https://shields.io/ -->
@@ -70,8 +71,6 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
     </span>
 </p>
 
-<br>
-
 <h3>🔥 GitHub Stats 🔥</h3>
 <!-- Link for creating stats: https://github.com/anuraghazra/github-readme-stats  -->
 <div>
@@ -89,14 +88,15 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
     </a> -->
 </div>
 <br>
+
+<p>
+    <img src="/github-metrics.svg" alt="Metrics" width="82%">
+</p>
+
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file -->
 <a href="#">
     <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khuongnc9x&theme=github" />
 </a>
-
-<p>
-    <img src="/github-metrics.svg" alt="Metrics" width="100%">
-</p>
 
 <!-- Use this link to create snake: https://github.com/Platane/snk -->
 <h3>🐍 Just a snake eats my contributions</h3>
@@ -113,6 +113,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
     </p>
 </div>
 <br>
+
 <h3>Let's connect ?🤝</h3>
 <!-- Link for image in this https://icons8.com -->
 <div>
