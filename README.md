@@ -66,7 +66,53 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
         <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />
     </span>
     <span>
+        <img src="https://img.shields.io/badge/FontAwesome-282C34?logo=fontawesome&logoColor=528DD7" alt="Font awesome logo" title="FontAwesome"
+            height="25" />
+    </span>
+     <span>
+        <img src="https://img.shields.io/badge/GoogleAppsScript-282C34?logo=googleappsscript&logoColor=4285F4" alt="GoogleAppsScript logo" title="GoogleAppsScript"
+            height="25" />
+    </span>
+    <span>
         <img src="https://img.shields.io/badge/Dashlane-282C34?logo=dashlane&logoColor=FFF" alt="Dashlane logo" title="Dashlane"
+            height="25" />
+    </span>
+</p>
+<!-- <p dir="auto">
+     <span>
+        <img src="https://img.shields.io/badge/Devto-282C34?logo=devdotto&logoColor=FFF" alt="Dev.to logo" title="Dev.to"
+            height="25" />
+    </span>
+</p> -->
+<p dir="auto">
+     <span>
+        <img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=0866FF" alt="facebook logo" title="facebook"
+            height="25" />
+    </span> 
+     <span>
+        <img src="https://img.shields.io/badge/Zalo-282C34?logo=zalo&logoColor=0068FF" alt="zalo logo" title="zalo"
+            height="25" />
+    </span> 
+     <span>
+        <img src="https://img.shields.io/badge/X-FFF?logo=x&logoColor=000000" alt="X logo" title="X"
+            height="25" />
+    </span>
+     <span>
+        <img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram logo" title="Instagram"
+            height="25" />
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=26A5E4" alt="telegram logo" title="telegram"
+            height="25" />
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=5865F2" alt="Discord logo" title="Discord"
+            height="25" />
+    </span>
+</p>
+<p dir="auto">
+     <span>
+        <img src="https://img.shields.io/badge/LeagueOfLegends-282C34?logo=leagueoflegends&logoColor=C28F2C" alt="LOL logo" title="LOL"
             height="25" />
     </span>
 </p>
