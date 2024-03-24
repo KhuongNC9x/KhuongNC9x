@@ -4,8 +4,8 @@
 <h2 class="heading-element" dir="auto">I'm a Software Developer living in Ha Noi, VietNam and working at 
     <a href="https://gettrail.com/" rel="nofollow">Trail</a>.
 </h2>
-<h3>🛠 Technologies and Tools 🛠</h3>
 
+<h3>🛠 Technologies and Tools 🛠</h3>
 <!-- Link for source image: https://shields.io/ -->
 <!-- Create link using this structure: https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR></COLOR>?param1&param2...
 LABEL is optional, MESSAGE and COLOR are required.
@@ -112,7 +112,6 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
         <img src="https://github-readme-quotes-bay.vercel.app/quote" style="width: 100%;">
     </p>
 </div>
-<br>
 
 <h3>Let's connect ?🤝</h3>
 <!-- Link for image in this https://icons8.com -->
