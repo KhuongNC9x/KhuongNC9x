@@ -42,7 +42,7 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
             height="25" />
     </span>
     <span>
-        <img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo"
+        <img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo"
         title="Microsoft SQL Server" height="25" />
     </span>
     <span>
@@ -117,22 +117,6 @@ Param 2 is logoColor=F7DF1E which is got from https://simpleicons.org/  -->
     </span>
 </p>
 
-<h3>🔥 GitHub Stats 🔥</h3>
-<!-- Link for creating stats: https://github.com/anuraghazra/github-readme-stats  -->
-<div>
-    <a href="#">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khuongnc9x" />
-    </a>
-    <a href="#">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuongnc9x&layout=donut&langs_count=8&card_width=320" />
-    </a>
-    <!-- <a href="#">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khuongnc9x&repo=ASCII_Buddha_F12" />
-    </a>
-    <a href="#">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khuongnc9x&repo=SpecialDaysAndEvents" />
-    </a> -->
-</div>
 <br>
 
 <p>
